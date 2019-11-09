@@ -1,0 +1,5 @@
+Here is the resource that i used to get a general idea of implementation, then started to my code from scratch.
+
+
+
+https://github.com/beingjainparas/Udacity-Explore_US_Bikeshare_Data/blob/master/bikeshare_2.py
