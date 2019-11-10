@@ -2,10 +2,10 @@
 11/10/2019
 
 ### Project Title
-Bike share system
+Explore US bikeshare data
 
 ### Description
-Using python to explore data of three major cities in the United State
+Exploring data of three major cities in the United State
 
 ### Files used
 Bikeshare_2.py
