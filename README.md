@@ -2,7 +2,7 @@
 11/10/2019
 
 ### Project Title
-Explore US bikeshare data
+Explore the US bikeshare data
 
 ### Description
 Exploring data of three major cities in the United State
