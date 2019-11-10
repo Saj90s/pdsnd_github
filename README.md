@@ -1,15 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+11/10/2019
 
 ### Project Title
-Replace the Project Title
+Bike share system
 
 ### Description
-Describe what your project is about and what it does
+Using python to explore data of three major cities in the United State
 
 ### Files used
-Include the files used
+Bikeshare_2.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+https://github.com/beingjainparas/Udacity-Explore_US_Bikeshare_Data/blob/master/bikeshare_2.py
