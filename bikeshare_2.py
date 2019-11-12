@@ -6,7 +6,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'new york': 'new_york_city.csv',
               'washington': 'washington.csv' }
 
-MONTH_DATA = ['january', 'february', 'march', 'april', 'may', 'jun', 'all']
+MONTH_DATA = ['January', 'February', 'March', 'April', 'May', 'Jun', 'All']
 
 DAY_DATA = ['all', 'sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday']
 
