@@ -6,7 +6,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'new york': 'new_york_city.csv',
               'washington': 'washington.csv' }
 
-MONTH_DATA = ['january', 'february', 'march', 'april', 'may', 'jun', 'all']
+MONTH_DATA = ['January', 'February', 'March', 'April', 'May', 'Jun', 'All']
 
 DAY_DATA = ['all', 'sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday']
 
@@ -68,9 +68,7 @@ def load_data(city, month, day):
 
     df = pd.read_csv(city)
 
-
     df['Start Time'] = pd.to_datetime(df['Start Time'])
-
 
     df['month'] = df['Start Time'].dt.month
     df['day_of_week'] = df['Start Time'].dt.weekday_name
@@ -199,8 +197,6 @@ def display_raw_data(df):
         next = next + 5
         print(df.iloc[next:next+5])
 
-
-
 def main():
     while True:
         city, month, day = get_filters()
@@ -222,5 +218,5 @@ def main():
             break
 
 
-if __name__ == "__main__":
-    main()
+            if __name__ == "__main__":
+                main()
